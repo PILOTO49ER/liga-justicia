@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ###Nota 3
-Este es un commit realizado directamente desde GitHub
+Este es un commit realizado directamente desde GitHub/////
